@@ -167,12 +167,12 @@
 			"new": true
 		},
 		{
-			"id": 6,
-			"title": "Jeans",
-			"img": "/img/men_2a.jpg",
-			"img2": "/img/men_2b.jpg",
-			"oldPrice": 68,
-			"price": 59,
+			"id": 3,
+			"title": "pink hoodie",
+			"img": "/img/women_3a.jpg",
+			"img2": "/img/women_3b.jpg",
+			"oldPrice": 58,
+			"price": 49,
 			"new": true
 		}
 	],
