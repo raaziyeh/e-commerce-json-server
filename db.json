@@ -340,5 +340,13 @@
 			"price": 55,
 			"new": true
 		}
-	]
+	],
+	"categories": {
+		"kids": "https://s8.uupload.ir/files/kids_category_ljo8.jpeg",
+		"men": "https://s8.uupload.ir/files/men_category_f5gk.jpeg",
+		"season": "https://s8.uupload.ir/files/season_category_0hg7.jpeg",
+		"shoes": "https://s8.uupload.ir/files/shoes_category_zugl.jpeg",
+		"trending": "https://s8.uupload.ir/files/trending_category_ac7j.jpeg",
+		"women": "https://s8.uupload.ir/files/women_category_i8v1.jpeg"
+	}
 }
