@@ -1,16 +1,16 @@
 {
 	"slider": [
-		"./img/slider_1.jpeg",
-		"./img/slider_4.jpeg",
-		"./img/slider_2.jpeg",
-		"./img/slider_3.jpeg"
+		"https://s8.uupload.ir/files/slider_1_gan3.jpeg",
+		"https://s8.uupload.ir/files/slider_2_b48l.jpeg",
+		"https://s8.uupload.ir/files/slider_3_j2gy.jpeg",
+		"https://s8.uupload.ir/files/slider_4_9uow.jpeg"
 	],
 	"women": [
 		{
 			"id": 1,
 			"title": "red blouse",
-			"img": "/img/women_1a.jpg",
-			"img2": "/img/women_1b.jpg",
+			"img": "https://s8.uupload.ir/files/women_1a_xfi2.jpg",
+			"img2": "https://s8.uupload.ir/files/women_1b_96fj.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": true
@@ -18,8 +18,8 @@
 		{
 			"id": 2,
 			"title": "skirt",
-			"img": "/img/women_2a.jpg",
-			"img2": "/img/women_2b.jpg",
+			"img": "https://s8.uupload.ir/files/women_2a_3l93.jpg",
+			"img2": "https://s8.uupload.ir/files/women_2b_swc3.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": false
@@ -27,8 +27,8 @@
 		{
 			"id": 3,
 			"title": "pink hoodie",
-			"img": "/img/women_3a.jpg",
-			"img2": "/img/women_3b.jpg",
+			"img": "https://s8.uupload.ir/files/women_3a_xkfo.jpg",
+			"img2": "https://s8.uupload.ir/files/women_3b_0pqv.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": true
@@ -36,8 +36,8 @@
 		{
 			"id": 4,
 			"title": "grey sweater",
-			"img": "/img/women_4a.jpg",
-			"img2": "/img/women_4b.jpg",
+			"img": "https://s8.uupload.ir/files/women_4a_if47.jpg",
+			"img2": "https://s8.uupload.ir/files/women_4b_e133.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": false
@@ -47,17 +47,17 @@
 		{
 			"id": 5,
 			"title": "T-shirt",
-			"img": "/img/men_1a.jpg",
-			"img2": "/img/men_1b.jpg",
+			"img": "https://s8.uupload.ir/files/men_1a_orl7.jpg",
+			"img2": "https://s8.uupload.ir/files/men_1b_dqfo.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": false
 		},
 		{
 			"id": 6,
-			"title": "Jeans",
-			"img": "/img/men_2a.jpg",
-			"img2": "/img/men_2b.jpg",
+			"title": "Black Jeans",
+			"img": "/img/https://s8.uupload.ir/files/men_2a_evji.jpg",
+			"img2": "/img/https://s8.uupload.ir/files/men_2b_1l4b.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": true
@@ -65,8 +65,8 @@
 		{
 			"id": 7,
 			"title": "pants",
-			"img": "/img/men_3a.jpg",
-			"img2": "/img/men_3b.jpg",
+			"img": "https://s8.uupload.ir/files/men_3a_2sai.jpg",
+			"img2": "https://s8.uupload.ir/files/men_3b_ldpt.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": false
@@ -74,8 +74,8 @@
 		{
 			"id": 8,
 			"title": "suit",
-			"img": "/img/men_4a.jpg",
-			"img2": "/img/men_4b.jpg",
+			"img": "https://s8.uupload.ir/files/men_4a_6qt7.jpg",
+			"img2": "https://s8.uupload.ir/files/men_4b_4ecw.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": true
@@ -85,8 +85,8 @@
 		{
 			"id": 9,
 			"title": "pink dress",
-			"img": "/img/kids_1a.jpg",
-			"img2": "/img/kids_1b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_1a_08nb.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_1b_9fk.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": true
@@ -94,8 +94,8 @@
 		{
 			"id": 10,
 			"title": "Jeans",
-			"img": "/img/kids_2a.jpg",
-			"img2": "/img/kids_2b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_2a_ypky.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_2b_zwrt.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": false
@@ -103,8 +103,8 @@
 		{
 			"id": 11,
 			"title": "T-shirt",
-			"img": "/img/kids_3a.jpg",
-			"img2": "/img/kids_3b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_3a_wvdq.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_3b_367g.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": false
@@ -112,8 +112,8 @@
 		{
 			"id": 12,
 			"title": "green little dress",
-			"img": "/img/kids_4a.jpg",
-			"img2": "/img/kids_4b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_4a_ie4f.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_4b_u99z.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": true
@@ -123,8 +123,8 @@
 		{
 			"id": 12,
 			"title": "green little dress",
-			"img": "/img/kids_4a.jpg",
-			"img2": "/img/kids_4b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_4a_ie4f.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_4b_u99z.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": true
@@ -132,27 +132,26 @@
 		{
 			"id": 1,
 			"title": "red blouse",
-			"img": "/img/women_1a.jpg",
-			"img2": "/img/women_1b.jpg",
+			"img": "https://s8.uupload.ir/files/women_1a_xfi2.jpg",
+			"img2": "https://s8.uupload.ir/files/women_1b_96fj.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": true
 		},
 		{
 			"id": 6,
-			"title": "Jeans",
-			"img": "/img/men_2a.jpg",
-			"img2": "/img/men_2b.jpg",
+			"title": "Black Jeans",
+			"img": "/img/https://s8.uupload.ir/files/men_2a_evji.jpg",
+			"img2": "/img/https://s8.uupload.ir/files/men_2b_1l4b.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": true
 		},
-
 		{
 			"id": 8,
 			"title": "suit",
-			"img": "/img/men_4a.jpg",
-			"img2": "/img/men_4b.jpg",
+			"img": "https://s8.uupload.ir/files/men_4a_6qt7.jpg",
+			"img2": "https://s8.uupload.ir/files/men_4b_4ecw.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": true
@@ -160,8 +159,8 @@
 		{
 			"id": 9,
 			"title": "pink dress",
-			"img": "/img/kids_1a.jpg",
-			"img2": "/img/kids_1b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_1a_08nb.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_1b_9fk.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": true
@@ -169,8 +168,8 @@
 		{
 			"id": 3,
 			"title": "pink hoodie",
-			"img": "/img/women_3a.jpg",
-			"img2": "/img/women_3b.jpg",
+			"img": "https://s8.uupload.ir/files/women_3a_xkfo.jpg",
+			"img2": "https://s8.uupload.ir/files/women_3b_0pqv.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": true
@@ -180,8 +179,8 @@
 		{
 			"id": 2,
 			"title": "skirt",
-			"img": "/img/women_2a.jpg",
-			"img2": "/img/women_2b.jpg",
+			"img": "https://s8.uupload.ir/files/women_2a_3l93.jpg",
+			"img2": "https://s8.uupload.ir/files/women_2b_swc3.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": false
@@ -189,8 +188,8 @@
 		{
 			"id": 10,
 			"title": "Jeans",
-			"img": "/img/kids_2a.jpg",
-			"img2": "/img/kids_2b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_2a_ypky.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_2b_zwrt.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": false
@@ -198,8 +197,8 @@
 		{
 			"id": 3,
 			"title": "pink hoodie",
-			"img": "/img/women_3a.jpg",
-			"img2": "/img/women_3b.jpg",
+			"img": "https://s8.uupload.ir/files/women_3a_xkfo.jpg",
+			"img2": "https://s8.uupload.ir/files/women_3b_0pqv.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": true
@@ -207,8 +206,8 @@
 		{
 			"id": 11,
 			"title": "T-shirt",
-			"img": "/img/kids_3a.jpg",
-			"img2": "/img/kids_3b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_3a_wvdq.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_3b_367g.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": false
@@ -216,18 +215,17 @@
 		{
 			"id": 4,
 			"title": "grey sweater",
-			"img": "/img/women_4a.jpg",
-			"img2": "/img/women_4b.jpg",
+			"img": "https://s8.uupload.ir/files/women_4a_if47.jpg",
+			"img2": "https://s8.uupload.ir/files/women_4b_e133.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": false
 		},
-
 		{
 			"id": 5,
 			"title": "T-shirt",
-			"img": "/img/men_1a.jpg",
-			"img2": "/img/men_1b.jpg",
+			"img": "https://s8.uupload.ir/files/men_1a_orl7.jpg",
+			"img2": "https://s8.uupload.ir/files/men_1b_dqfo.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": false
@@ -237,8 +235,8 @@
 		{
 			"id": 1,
 			"title": "red blouse",
-			"img": "/img/women_1a.jpg",
-			"img2": "/img/women_1b.jpg",
+			"img": "https://s8.uupload.ir/files/women_1a_xfi2.jpg",
+			"img2": "https://s8.uupload.ir/files/women_1b_96fj.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": true
@@ -246,8 +244,8 @@
 		{
 			"id": 2,
 			"title": "skirt",
-			"img": "/img/women_2a.jpg",
-			"img2": "/img/women_2b.jpg",
+			"img": "https://s8.uupload.ir/files/women_2a_3l93.jpg",
+			"img2": "https://s8.uupload.ir/files/women_2b_swc3.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": false
@@ -255,8 +253,8 @@
 		{
 			"id": 3,
 			"title": "pink hoodie",
-			"img": "/img/women_3a.jpg",
-			"img2": "/img/women_3b.jpg",
+			"img": "https://s8.uupload.ir/files/women_3a_xkfo.jpg",
+			"img2": "https://s8.uupload.ir/files/women_3b_0pqv.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": true
@@ -264,8 +262,8 @@
 		{
 			"id": 4,
 			"title": "grey sweater",
-			"img": "/img/women_4a.jpg",
-			"img2": "/img/women_4b.jpg",
+			"img": "https://s8.uupload.ir/files/women_4a_if47.jpg",
+			"img2": "https://s8.uupload.ir/files/women_4b_e133.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": false
@@ -273,17 +271,17 @@
 		{
 			"id": 5,
 			"title": "T-shirt",
-			"img": "/img/men_1a.jpg",
-			"img2": "/img/men_1b.jpg",
+			"img": "https://s8.uupload.ir/files/men_1a_orl7.jpg",
+			"img2": "https://s8.uupload.ir/files/men_1b_dqfo.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": false
 		},
 		{
 			"id": 6,
-			"title": "Jeans",
-			"img": "/img/men_2a.jpg",
-			"img2": "/img/men_2b.jpg",
+			"title": "Black Jeans",
+			"img": "/img/https://s8.uupload.ir/files/men_2a_evji.jpg",
+			"img2": "/img/https://s8.uupload.ir/files/men_2b_1l4b.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": true
@@ -291,8 +289,8 @@
 		{
 			"id": 7,
 			"title": "pants",
-			"img": "/img/men_3a.jpg",
-			"img2": "/img/men_3b.jpg",
+			"img": "https://s8.uupload.ir/files/men_3a_2sai.jpg",
+			"img2": "https://s8.uupload.ir/files/men_3b_ldpt.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": false
@@ -300,8 +298,8 @@
 		{
 			"id": 8,
 			"title": "suit",
-			"img": "/img/men_4a.jpg",
-			"img2": "/img/men_4b.jpg",
+			"img": "https://s8.uupload.ir/files/men_4a_6qt7.jpg",
+			"img2": "https://s8.uupload.ir/files/men_4b_4ecw.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": true
@@ -309,8 +307,8 @@
 		{
 			"id": 9,
 			"title": "pink dress",
-			"img": "/img/kids_1a.jpg",
-			"img2": "/img/kids_1b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_1a_08nb.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_1b_9fk.jpg",
 			"oldPrice": 47,
 			"price": 32,
 			"new": true
@@ -318,8 +316,8 @@
 		{
 			"id": 10,
 			"title": "Jeans",
-			"img": "/img/kids_2a.jpg",
-			"img2": "/img/kids_2b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_2a_ypky.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_2b_zwrt.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": false
@@ -327,8 +325,8 @@
 		{
 			"id": 11,
 			"title": "T-shirt",
-			"img": "/img/kids_3a.jpg",
-			"img2": "/img/kids_3b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_3a_wvdq.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_3b_367g.jpg",
 			"oldPrice": 58,
 			"price": 49,
 			"new": false
@@ -336,8 +334,8 @@
 		{
 			"id": 12,
 			"title": "green little dress",
-			"img": "/img/kids_4a.jpg",
-			"img2": "/img/kids_4b.jpg",
+			"img": "https://s8.uupload.ir/files/kids_4a_ie4f.jpg",
+			"img2": "https://s8.uupload.ir/files/kids_4b_u99z.jpg",
 			"oldPrice": 63,
 			"price": 55,
 			"new": true
