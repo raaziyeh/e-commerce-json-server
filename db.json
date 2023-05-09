@@ -56,8 +56,8 @@
 		{
 			"id": 6,
 			"title": "Black Jeans",
-			"img": "/img/https://s8.uupload.ir/files/men_2a_evji.jpg",
-			"img2": "/img/https://s8.uupload.ir/files/men_2b_1l4b.jpg",
+			"img": "https://s8.uupload.ir/files/men_2a_evji.jpg",
+			"img2": "https://s8.uupload.ir/files/men_2b_1l4b.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": true
@@ -141,8 +141,8 @@
 		{
 			"id": 6,
 			"title": "Black Jeans",
-			"img": "/img/https://s8.uupload.ir/files/men_2a_evji.jpg",
-			"img2": "/img/https://s8.uupload.ir/files/men_2b_1l4b.jpg",
+			"img": "https://s8.uupload.ir/files/men_2a_evji.jpg",
+			"img2": "https://s8.uupload.ir/files/men_2b_1l4b.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": true
@@ -280,8 +280,8 @@
 		{
 			"id": 6,
 			"title": "Black Jeans",
-			"img": "/img/https://s8.uupload.ir/files/men_2a_evji.jpg",
-			"img2": "/img/https://s8.uupload.ir/files/men_2b_1l4b.jpg",
+			"img": "https://s8.uupload.ir/files/men_2a_evji.jpg",
+			"img2": "https://s8.uupload.ir/files/men_2b_1l4b.jpg",
 			"oldPrice": 68,
 			"price": 59,
 			"new": true
